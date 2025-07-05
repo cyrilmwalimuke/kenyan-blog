@@ -150,7 +150,7 @@ export default function Component() {
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-xl md:text-2xl font-bold mb-6">Discover Kenya Through Every Story</h1>
             <p className="text-sm md:text-lg mb-8 text-gray-200">
-              From Nairobi's bustling streets to Maasai Mara's wildlife - explore all facets of Kenyan life
+              From Nairobis bustling streets to Maasai Maras wildlife - explore all facets of Kenyan life
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <button size="lg" className="bg-white text-black hover:bg-gray-100 rounded-md text-sm px-4 py-2">
